@@ -5,4 +5,6 @@ This is a project for The Odin Project where it's being taught Git, HTML, CSS an
 
 This project is part of the Foundation Course.
 
+Lve preview - https://codieg0.github.io/odin-recipes/
+
 For more information, refer to - https://www.theodinproject.com/about
