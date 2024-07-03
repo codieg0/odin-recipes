@@ -1,0 +1,46 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title, #title-lasagna, #title-ceviche{
+    text-align: center;
+    font-size: 35px;
+}
+
+img{
+    border-radius: 30px;
+    align-items: center;
+}
+
+.para.par {
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.list a{
+    text-decoration: none;
+    color: green;
+}
+
+.list a:hover{
+    font-size: large;
+}
+
+.ingredients-lasagna p {
+    font-size: 25px;
+    font-weight: bold;
+}
+.steps-lasagna p {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.ingredients-ceviche p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.steps-cechive p {
+    font-size: 25px;
+    font-weight: bold;
+}
