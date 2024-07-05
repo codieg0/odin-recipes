@@ -7,9 +7,13 @@
     font-size: 35px;
 }
 
-img{
+.img{
+   text-align: center;
+   padding: 30px;
+}
+
+img {
     border-radius: 30px;
-    align-items: center;
 }
 
 .para.par {
@@ -43,4 +47,10 @@ img{
 .steps-cechive p {
     font-size: 25px;
     font-weight: bold;
+}
+
+.list {
+    margin: 15px;
+    padding: auto;
+    font-size: 17px;
 }
